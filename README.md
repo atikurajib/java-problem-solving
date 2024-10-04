@@ -14,8 +14,7 @@ Key features that make Java popular include:
 8. **JVM (Java Virtual Machine)**: Java code is compiled into bytecode that can be executed on any system with a JVM, offering cross-platform compatibility and a consistent runtime environment.
 9. **Rich API**: Java offers an extensive API for many tasks, including data structures, networking, file I/O, utilities, and more, making it easier to develop complex applications.
 10. **Scalability**: Java is well-suited for building both small-scale applications and large-scale enterprise systems, with frameworks like Spring, Hibernate, and Java EE supporting enterprise development.
-11. **Security**: Java has built-in security features like bytecode verification, class loaders, and the Java Security Manager to protect systems from external threats.
-12. **Backward Compatibility**: Java is strongly committed to backward compatibility, allowing older applications to run on newer versions of the language without significant changes to the code.
-13. **Cross-platform**: Java’s platform independence allows developers to create applications that run on any operating system with a JVM, without needing to modify the source code.
+11. **Backward Compatibility**: Java is strongly committed to backward compatibility, allowing older applications to run on newer versions of the language without significant changes to the code.
+12. **Cross-platform**: Java’s platform independence allows developers to create applications that run on any operating system with a JVM, without needing to modify the source code.
 
 Java has become a key language in areas such as **enterprise-level web applications, Android app development, and big data technologies**, with frameworks like Spring, JavaFX, and Hadoop supporting its widespread use.
