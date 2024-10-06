@@ -1,4 +1,4 @@
-<h2 align="center">----- JAVA -----</h2>
+<h2 align="center">----- JAVA PROGRAMMING -----</h2>
 
 Java is a high-level, object-oriented programming language that was initially developed by Sun Microsystems and released in 1995. It is one of the most widely used programming languages for building applications that can run on any platform, thanks to its principle of **Write Once, Run Anywhere” (WORA)**. Java programs are compiled into bytecode, which is executed by the **Java Virtual Machine (JVM)**, making them platform-independent.
 
