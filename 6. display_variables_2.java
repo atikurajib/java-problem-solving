@@ -1,4 +1,4 @@
-// 
+// display variables
 
 public class Main {
 	
